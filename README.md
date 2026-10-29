@@ -1,36 +1,116 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-murtaza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan-murtaza" alt="rehan-murtaza" /></a> </p>
-
-- 🔭 I’m currently working on **RB Live**
-
-- 🌱 I’m currently learning **Node.Js**
-
-- 👯 I’m looking to collaborate on [Eelo](eelo.online)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rehan-murtaza](https://github.com/Rehan-murtaza)
-
-- 💬 Ask me about **react,mui,javascript**
-
-- 📫 How to reach me **r.kmughal66@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-rehan-8844ab193/](https://www.linkedin.com/in/muhammad-rehan-8844ab193/)
-
-- ⚡ Fun fact **I think I am Boring**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rehan-8844ab193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-rehan-8844ab193/" height="30" width="40" /></a>
+<!-- Header banner -->
+<p align="center">
+  <img width="100%" alt="Muhammad Rehan" src="https://capsule-render.vercel.app/api?type=waving&color=0:14365a,100:4d8fcc&height=170&section=header&text=Muhammad%20Rehan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=React.js%20Developer%20%7C%20Real-Time%20Trading%20%26%20Analytics%20Interfaces&descSize=16&descAlignY=62" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Rehan-murtaza"><img src="https://komarev.com/ghpvc/?username=Rehan-murtaza&label=Profile%20views&color=1f4e79&style=flat" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-rehan-8844ab193/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rehan-1f4e79?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:r.kmughal66@gmail.com"><img src="https://img.shields.io/badge/Email-r.kmughal66%40gmail.com-1f4e79?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-1f4e79?style=flat" alt="Location" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-murtaza&show_icons=true&locale=en&layout=compact" alt="rehan-murtaza" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehan-murtaza&show_icons=true&locale=en" alt="rehan-murtaza" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-murtaza&" alt="rehan-murtaza" /></p>
+React.js developer with **3+ years of experience** building responsive web apps, **real-time trading dashboards**, financial charting interfaces, and analytics platforms. I enjoy the hard front-end problems: high-frequency WebSocket data, complex state, and UIs that stay fast under load.
+
+- 🔭 Currently building at **Rocco Video**: live-streaming products, crypto-exchange terminals, and admin dashboards
+- ⚡ Focus areas: **WebSocket performance**, **Redux architecture for high-frequency data**, **TradingView / Lightweight Charts**
+- 🌱 Learning **Node.js & Express.js** to grow into a full-stack JavaScript developer
+- 🤝 Open to collaborating on React, real-time, and fintech UI projects
+- 📫 Reach me at **r.kmughal66@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,mui,bootstrap&theme=dark" alt="Frontend" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,postman,vite,npm,figma&theme=dark" alt="Tools" />
+</p>
+
+| Area | What I use |
+| :-- | :-- |
+| **Frontend** | JavaScript (ES6+), React.js, Tailwind CSS, Material UI, Bootstrap, styled-components |
+| **State & Architecture** | Redux Toolkit, Context API, Zustand, custom hooks, memoized selectors |
+| **Real-Time & APIs** | WebSockets, Socket.IO, REST APIs, Axios, token auth, KuCoin API |
+| **Charts & Trading UI** | TradingView Charts, Lightweight Charts, ApexCharts, Chart.js, order books, depth charts, SMA / EMA / RSI / MACD / Bollinger Bands |
+| **Performance** | Throttling, batched updates, Web Workers, re-render control |
+
+---
+
+## 🚀 Featured Work
+
+> Most of my professional projects are built for companies and clients, so their code is private. Here is what I have worked on:
+
+| Project | What it is | Tech |
+| :-- | :-- | :-- |
+| **Exbeast** | Crypto exchange front end with real-time order books, tickers, depth and candlestick charts, and KuCoin API integration | React, Redux Toolkit, WebSockets, Web Workers, TradingView Charts |
+| **Exbotix** | Trading and analytics platform covering spot and futures workflows, leverage and margin modes, TP/SL, indicators, and bot interfaces | React, Redux Toolkit, WebSockets, Lightweight Charts, Tailwind |
+| **[Profit Miner](https://profitminer.pro/)** | Crypto mining insights dashboard with live stats, earnings, and performance analytics | React, Chart.js, Material UI |
+| **[Rocco](https://roccoexpert.com/)** | High-performance live-streaming platform with broadcast and viewer modes | React, Bootstrap |
+| **Jokerz** | Short-video and live-streaming app with an admin dashboard | React, Material UI |
+| **Gold Bazar** | Gold-selling platform with product catalog, price tracking, and order management | React, REST APIs |
+
+---
+
+## ⚡ How I Handle High-Frequency Data
+
+A small pattern I rely on: buffer WebSocket ticks and flush them once per animation frame, so thousands of messages per second become at most one render per frame.
+
+```js
+import { useEffect, useRef } from "react";
+
+// Batches incoming ticks and flushes them once per frame.
+export function useBatchedFeed(socket, onFlush) {
+  const buffer = useRef([]);
+  const flushRef = useRef(onFlush);
+  flushRef.current = onFlush;
+
+  useEffect(() => {
+    let raf;
+    const onMessage = (e) => buffer.current.push(JSON.parse(e.data));
+    const flush = () => {
+      if (buffer.current.length) {
+        flushRef.current(buffer.current);
+        buffer.current = [];
+      }
+      raf = requestAnimationFrame(flush);
+    };
+
+    socket.addEventListener("message", onMessage);
+    raf = requestAnimationFrame(flush);
+    return () => {
+      socket.removeEventListener("message", onMessage);
+      cancelAnimationFrame(raf);
+    };
+  }, [socket]);
+}
+```
+
+Paired with a Redux layout that keeps **ephemeral market feeds** separate from **persistent wallet and order state**, so a price tick never re-renders the whole app.
+
+---
+
+## 📈 Currently
+
+- Building real-time trading and streaming interfaces at **Rocco Video**
+- Learning **Node.js + Express.js** for full-stack JavaScript
+- Exploring Web Worker based data pipelines for heavy order-book updates
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-rehan-8844ab193/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f4e79?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:r.kmughal66@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1f4e79?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://profitminer.pro/"><img src="https://img.shields.io/badge/Live-profitminer.pro-1f4e79?style=for-the-badge" alt="Profit Miner" /></a>
+  <a href="https://roccoexpert.com/"><img src="https://img.shields.io/badge/Live-roccoexpert.com-1f4e79?style=for-the-badge" alt="Rocco" /></a>
+</p>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4d8fcc,100:14365a&height=90&section=footer" />
